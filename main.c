@@ -3,8 +3,10 @@
 
 int main()
 {
-
-    startupRunnable();
+    while (1)
+    {
+        startupRunnable();
+    }
 
     return 0;
 }
